@@ -1,0 +1,16 @@
+{
+  "name": "bank-australia-importer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@actual-app/api": "^6.1.0",
+    "@commander-js/extra-typings": "^10.0.3",
+    "commander": "^10.0.1",
+    "csv": "^6.3.1",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/yargs": "^17.0.24"
+  }
+}
